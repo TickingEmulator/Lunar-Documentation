@@ -5,3 +5,6 @@ In this Lua Introduction Documentation we will explain everything throughly with
 
 Reminder that unlike other documentations Lunar Documentation will provide examples of code with the function being explained.
 
+
+Discord: Tick#4303 - Owner of Documentation
+Discord: Flux#3333 -- Documentation Affiliate
