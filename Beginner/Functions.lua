@@ -25,7 +25,7 @@ Noob: WHAT HAPPEND WHY IS IT NIL OMG !!!!!!
 
 Pro: Calm down their bud don't you see thats a local variable!
 Pro: If that variable would have been Variable1 = "Var1" than it would have printed Var1 but since its local its nil meaning it hasn't been declared outside of the function.
-Pro: Same things apply with local functions inside of regular functions it can't be called outside of the functions its in unless you remove the local.
+Pro: Same things apply with local functions inside of regular functions it can't be called outside of the function unless you remove the local.
 
 Noob: Ohhhhh... Thank god I almost died..
 Pro: Ok.. Anyways that doesn't mean you should never use local variables. Local variables help code run faster so make sure to still use them for code effcientcy
