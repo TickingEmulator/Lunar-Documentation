@@ -4,7 +4,7 @@
     You may see : -- in this docs those are line comments which can be made on lines of code to help you out, they will not be ran by the compiler.
     
 --]]
-
+  local MyName; -- Declared MyName to no value but exists as a variable. ";" is used to determine when the line ended. You don't always have to declare variables.
   local MyName = "Tick!" -- Variable 1
   
  --[[ 
