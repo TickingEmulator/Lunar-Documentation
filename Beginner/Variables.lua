@@ -25,6 +25,10 @@ local NonExistient = nil
 
 --[[
   Variables can contain underscores and numbers in the name but cannot contain spaces. You cannot start a variable with a number.
+  
+  Variables may also be redeclared which means their value can change look bellow as I change the value of MyName
 --]]
 
-print(MyName) -- Output: Tick!
+MyName = "Flux" -- Redeclared MyName to Flux
+
+print(MyName) -- Output: Flux!
