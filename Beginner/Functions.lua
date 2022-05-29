@@ -43,7 +43,7 @@ print(Variable2) -- Variable2 is not local making this run and Output: YO!00
 function LastPart()
     local Me = "Tick"
     local function Pro()    print("I'm local")     end
-    Pro() -- Caled Here
+    Pro() -- Called Here | Output : I'm local
   end
 
 
